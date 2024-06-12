@@ -50,6 +50,7 @@ a {
     font-weight: 900;
     color: #F9FAf8;
     margin: 0% 10%;
+    margin-top: auto;
 }
 
 .right-items{
@@ -119,7 +120,8 @@ button {
 .second-section-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 32px;
+    gap: 12px;
+    justify-content: center;
   }
   
 .card {
