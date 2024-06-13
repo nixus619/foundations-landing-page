@@ -127,6 +127,7 @@ button {
     width: 300px;
     display: flex;
     flex-direction: column;
+    gap: 10px;
   }
 
 .card img{
@@ -173,6 +174,7 @@ button {
     font-style: italic;
     color: #1F2937;
     padding: 0% 2%;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .quote-credit {
@@ -208,7 +210,7 @@ button {
 }
 
 .action{
-    font-weight: bolder;
+    font-weight: 800;
 }
 
 button.signUp{
